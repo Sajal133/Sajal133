@@ -7,7 +7,7 @@ Active Learner of Data Science and Analysis
 * 🌍  I'm based in Vellore Institute of Technology
 * ✉️  You can contact me at [sajalkumar4004@gmail.com](mailto:sajalkumar4004@gmail.com)
 * 🧠  I'm learning Machine learning and Deep Learning.
-* 🤝  I'm open to collaborating on Interesting Data Science projects.
+* 🤝  I'm open to collaborating on Interesting Data Science projects and Internship.
 * ⚡  I like Photography and Reading Mangas
 
 <a href="https://www.github.com/Sajal133" target="_blank" rel="noreferrer"><img
